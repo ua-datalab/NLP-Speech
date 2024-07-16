@@ -4,8 +4,10 @@ Repository for all materials for an 8-session workshop series on the fundamental
 
 **Calendar**
 
-| Date | Title | Topic | Wiki Page |
-| :--: | :-- | :-- | |
+
+
+| Date      | Title      | Topic Description     | Wiki       |
+| ------------- | ------------- | -------------      | -------------      |
 | 09/05/2024 | Introduction to NLP with SpaCy |   | |
 | 09/12/2024 | Regular Expressions for NLP |   | |
 | 09/19/2024 | NLP with Recurrant Neural Networks |   | |
