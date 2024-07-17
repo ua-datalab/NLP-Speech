@@ -3,6 +3,10 @@ Repository for all materials for an 8-session workshop series on the fundamental
 
 **Instructor**: Megh Krishnaswamy. 
 
+**Location**: Albert B. Weaver Science-Engineering Library. Room 212.
+
+**When**: Thursdays at 3PM.
+
 [Work in Progress]
 
 **Calendar**
