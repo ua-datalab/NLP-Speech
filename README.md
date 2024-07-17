@@ -1,4 +1,4 @@
-# Introduction to Natural Language Processing for all
+# Natural Language Processing for All
 Repository for all materials for an 8-session workshop series on the fundamentals, tools and techniques, and applications for NLP and Speech Tech.
 
 **Instructor**: Megh Krishnaswamy. 
