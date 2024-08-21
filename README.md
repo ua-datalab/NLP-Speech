@@ -1,3 +1,6 @@
+![nlp](https://github.com/user-attachments/assets/e94316e9-7af5-442b-9c2e-af9e9e50dac2)
+Image source: [Jeevan chavan's article "NLP: Tokenization , Stemming , Lemmatization , Bag of Words ,TF-IDF , POS"](https://medium.com/@jeevanchavan143/nlp-tokenization-stemming-lemmatization-bag-of-words-tf-idf-pos-7650f83c60be)
+
 ### Natural Language Processing for All
 
 Join us for an engaging and accessible workshop series that offers a captivating introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, this series will demystify popular technologies and show you how they work.
