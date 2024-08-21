@@ -1,7 +1,14 @@
-# Natural Language Processing for All
-Repository for all materials for an 8-session workshop series on the fundamentals, tools and techniques, and applications for NLP and Speech Tech.
+### Natural Language Processing for All
 
-**Instructor**: Megh Krishnaswamy. 
+Join us for an engaging and accessible workshop series that offers a captivating introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, this series will demystify popular technologies and show you how they work.
+
+#### What We Will Cover:
+- **Foundations of NLP:** Gain a solid grasp of NLP concepts and terminology without needing a technical background.
+- **Real-World Applications:** Explore practical uses of NLP in various contexts, such as improving productivity, enhancing communication, and simplifying data analysis.
+- **Hands-On Experience:** We will illustrate NLP concepts in action with a well-documented code notebook, aimed at solving practical examples. We will also explore online sourced for NLP tools and datasets, such as Hugging Face.
+
+Join us in "NLP for All" and take the first step toward mastering the language of technology!
+**Coordinator**: Megh Krishnaswamy. 
 
 **Location**: Albert B. Weaver Science-Engineering Library. Room 212.
 
