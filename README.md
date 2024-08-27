@@ -19,6 +19,8 @@ Join us in "NLP for All" and take the first step toward mastering the language o
 
 **When**: Thursdays at 3PM.
 
+[Pytorch, Hugging Face, Notebooks, API Access for LLMs?, ]
+
 [Work in Progress]
 
 **Calendar**
