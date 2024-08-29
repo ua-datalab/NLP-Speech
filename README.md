@@ -3,7 +3,7 @@ Image source: [Jeevan chavan's article "NLP: Tokenization , Stemming , Lemmatiza
 
 ### Natural Language Processing for All
 
-Join us for an engaging and accessible workshop series that offers a captivating introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, or looking for tools for working with transctiptions and captions, this series will demystify popular technologies and show you how they work.
+Join us for an engaging and accessible workshop series that offers an introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, or looking for tools for working with transctiptions and captions, this series will demystify popular technologies and show you how they work.
 
 #### What We Will Cover:
 - **Foundations of NLP:** Gain a solid grasp of NLP concepts and terminology without needing a technical background.
