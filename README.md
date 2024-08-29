@@ -14,13 +14,11 @@ Join us for an engaging and accessible introduction to Natural Language Processi
 - A Google account to run [Google Colab](http://colab.research.google.com/) (where we will do most of our programming exercises)
 - Basic knowledge of Python. You can brush up python fundamentals with Software Carpentry's [Introduction to Python (section 1)](https://swcarpentry.github.io/python-novice-inflammation/01-intro.html) 
 
-**Coordinator**: Megh Krishnaswamy. 
-
-**Location**: Albert B. Weaver Science-Engineering Library. Room 212.
-
+**Coordinator**: Megh Krishnaswamy. <br>
+**Location**: Albert B. Weaver Science-Engineering Library. Room 212. <br>
 **When**: Thursdays at 3PM.
 
-**Calendar**
+**Calendar:**
 
 | Date      | Title      | Topic Description     | Wiki       |
 | ------------- | ------------- | -------------      | -------------      |
