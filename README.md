@@ -3,13 +3,11 @@ Image source: [Jeevan chavan's article "NLP: Tokenization , Stemming , Lemmatiza
 
 ### Natural Language Processing for All
 
-Join us for an engaging and accessible workshop series that offers a captivating introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, this series will demystify popular technologies and show you how they work.
-
-[ZOOM TRANSCRIPTS, Whisper AI- add to description]
+Join us for an engaging and accessible workshop series that offers a captivating introduction to Natural Language Processing (NLP) and its practical applications for everyday tasks! In "NLP for All," we will explore the fundamental concepts behind NLP: From understanding how computers interpret human language, to discovering how to improve search queries, use regular expressions, find datasets, and learn about pipelines for working with language. Whether you're curious about chatbots, voice assistants, or automated text analysis, or looking for tools for working with transctiptions and captions, this series will demystify popular technologies and show you how they work.
 
 #### What We Will Cover:
 - **Foundations of NLP:** Gain a solid grasp of NLP concepts and terminology without needing a technical background.
-- **Real-World Applications:** Explore practical uses of NLP in various contexts, such as improving productivity, enhancing communication, and simplifying data analysis.
+- **Real-World Applications:** Explore practical uses of NLP in various contexts, such as improving search and information retrieval, generating and evaluating automatic transcriptions, and working with popular libraries such as spaCy, Pytorch and ScikitLearn.
 - **Hands-On Experience:** We will illustrate NLP concepts in action with a well-documented code notebook, aimed at solving practical examples. We will also explore online sourced for NLP tools and datasets, such as Hugging Face.
 
 Join us in "NLP for All" and take the first step toward mastering the language of technology!
@@ -18,8 +16,6 @@ Join us in "NLP for All" and take the first step toward mastering the language o
 **Location**: Albert B. Weaver Science-Engineering Library. Room 212.
 
 **When**: Thursdays at 3PM.
-
-[Pytorch, Hugging Face, Notebooks, API Access for LLMs?, ]
 
 [Work in Progress]
 
